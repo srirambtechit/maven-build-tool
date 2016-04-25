@@ -8,7 +8,7 @@ JARs of projects.
 2. Then run the pom.xml as explained as stated below
 
 ## How to run in eclipse
-```
+
 1) Configuration:
 Right click on __pom.xml__ 
     -> Run As 
@@ -22,7 +22,7 @@ Right click on __pom.xml__
     -> Run As
     -> Maven build
 3) __lib__ folder will be created and dependencies were generated
-```
+
 
 ## Command line usage
 `mvn -DoutputDirectory=alternativeLocation dependency:copy-dependencies` 
