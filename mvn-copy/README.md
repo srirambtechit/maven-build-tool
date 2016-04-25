@@ -10,13 +10,13 @@ JARs of projects.
 ## How to run in eclipse
 
 1. Configuration:
-..* Right click on __pom.xml__ 
-....* -> Run As 
-....* -> Run configurations... 
-....* -> Define goal as __dependency:copy-dependencies__
-....* -> add parameter in below settings by click Add
-....* -> param name is __outputDirectory__
-....* -> param value is __lib__
+  * Right click on __pom.xml__ 
+    * -> Run As 
+    * -> Run configurations... 
+    * -> Define goal as __dependency:copy-dependencies__
+    * -> add parameter in below settings by click Add
+    * -> param name is __outputDirectory__
+    * -> param value is __lib__
 2. Execute pom.xml
 Right click on __pom.xml__
     -> Run As
@@ -26,9 +26,9 @@ Right click on __pom.xml__
 
 1. First ordered list item
 2. Another item
-⋅⋅* Unordered sub-list. 
+  * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
+  1. Ordered sub-list  
 4. And another item.
 
 ## Command line usage
