@@ -10,13 +10,13 @@ JARs of projects.
 ## How to run in eclipse
 
 1. Configuration:
-* Right click on __pom.xml__ 
-**   -> Run As 
-**   -> Run configurations... 
-**   -> Define goal as __dependency:copy-dependencies__
-**   -> add parameter in below settings by click Add
-**   -> param name is __outputDirectory__
-**    -> param value is __lib__
+ Right click on __pom.xml__ 
+  -> Run As 
+  -> Run configurations... 
+  -> Define goal as __dependency:copy-dependencies__
+  -> add parameter in below settings by click Add
+  -> param name is __outputDirectory__
+  -> param value is __lib__
 2. Execute pom.xml
 Right click on __pom.xml__
     -> Run As
