@@ -9,19 +9,19 @@ JARs of projects.
 
 ## How to run in eclipse
 
-1) Configuration:<br/>
-Right click on __pom.xml__ <br/> 
-    -> Run As <br/>
-    -> Run configurations...<br/> 
-    -> Define goal as __dependency:copy-dependencies__<br/>
-    -> add parameter in below settings by click Add<br/>
-    -> param name is __outputDirectory__<br/>
-    -> param value is __lib__<br/>
-2) Execute pom.xml<br/>
-Right click on __pom.xml__<br/>
-    -> Run As<br/>
-    -> Maven build<br/>
-3) __lib__ folder will be created and dependencies were generated<br/>
+1. Configuration:
+* Right click on __pom.xml__ 
+**   -> Run As 
+**   -> Run configurations... 
+**   -> Define goal as __dependency:copy-dependencies__
+**   -> add parameter in below settings by click Add
+**   -> param name is __outputDirectory__
+**    -> param value is __lib__
+2. Execute pom.xml
+Right click on __pom.xml__
+    -> Run As
+    -> Maven build
+3. __lib__ folder will be created and dependencies were generated
 
 
 ## Command line usage
